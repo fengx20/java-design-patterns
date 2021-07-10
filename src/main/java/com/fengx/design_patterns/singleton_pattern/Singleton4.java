@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.singleton_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-07-09
  * @description: 3、单例模式的实现方式4：双检锁/双重校验锁（DCL，即 double-checked locking）
  *

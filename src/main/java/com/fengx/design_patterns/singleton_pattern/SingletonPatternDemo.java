@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.singleton_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-07-09
  * @description: 2、从 singleton 类获取唯一的对象
  *

@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.proxy_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-06-24
  * @description: 2、创建实现接口的实体类
  **/

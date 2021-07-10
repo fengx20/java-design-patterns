@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.proxy_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-07-05
  * @description: 4、当被请求时，使用 ProxyImage 来获取 RealImage 类的对象。
  *

@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.decorator_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-07-06
  * @description: 5、使用 RedShapeDecorator 来装饰 Shape 对象
  *

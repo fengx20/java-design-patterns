@@ -1,7 +1,7 @@
 package com.fengx.design_patterns.decorator_pattern;
 
 /**
- * @author: 冯晓
+ * @author: Fengx
  * @create: 2021-07-05
  * @description: 4、创建扩展了 ShapeDecorator 类的实体装饰类
  **/
