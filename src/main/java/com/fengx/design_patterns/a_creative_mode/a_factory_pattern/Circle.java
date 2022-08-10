@@ -1,11 +1,13 @@
-package com.fengx.design_patterns.decorator_pattern;
+package com.fengx.design_patterns.a_creative_mode.a_factory_pattern;
+
+import com.fengx.design_patterns.a_creative_mode.a_factory_pattern.Shape;
 
 /**
  * @author: Fengx
  * @create: 2021-07-05
  * @description: 2、创建实现接口的实体类
  **/
-public class Circle implements Shape{
+public class Circle implements Shape {
 
     @Override
     public void draw(){
